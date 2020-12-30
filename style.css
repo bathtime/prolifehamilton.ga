@@ -26,12 +26,12 @@ nav {
     display: inline-block;
 }
 nav ul li a {
-    background: #EEE;
+    background: #23629e;
     padding: 2px 10px;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    color: #23629e;
+    color: #FFFFFF;
     border-radius: 10px;
 }
 nav ul li a:hover {

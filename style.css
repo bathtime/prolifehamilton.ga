@@ -46,6 +46,7 @@ nav ul {
     list-style: none;
 }
 #pageContent {
+    padding: 30px 100px;
     max-width: 2000px;
     margin: 30;
     border: none;

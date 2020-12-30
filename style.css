@@ -104,19 +104,19 @@ aside > div {
     margin-right: 10px;
 }
 body > section {
-    max-width: 1000px;
+    max-width: 2000px;
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
     color: #333;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 2000px) {
 	body > section {
 		padding: 30px 20px;
 	}
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 200px) {
 	main {
 		float: none;
 		width: 100%;

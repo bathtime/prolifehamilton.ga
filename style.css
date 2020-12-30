@@ -23,14 +23,7 @@ header {
 	padding: 25px 20px 0px 20px;
         max-width: 2000px;
 }
-section {
-	font-size: 40px;
-	color: #23629e;
-	margin: auto;
-        background: #ffffff;
-	padding: 0px 0px 0px 0px;
-        max-width: 2000px;
-}
+
 nav {
     display: inline-block;
 }

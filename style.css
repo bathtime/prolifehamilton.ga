@@ -40,7 +40,7 @@ nav ul li a:hover {
 }
 nav ul li {
     display: inline-block;
-    margin: 0px;
+    margin: 10px;
 }
 nav ul {
     list-style: none;

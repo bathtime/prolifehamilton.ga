@@ -23,10 +23,10 @@ header {
 	padding: 25px 20px 0px 20px;
         max-width: 2000px;
 }
-header2 {
+section {
 		margin: auto;
 
-    background: #FFFFFF;
+    background: #000000;
 	padding: 25px 20px 0px 20px;
     max-width: 2000px;
 }

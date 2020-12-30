@@ -18,6 +18,7 @@ body,html {
 	background-color: #FFF;
 }
 header {
+	margin: auto;
     background: #FFFFFF;
     padding: 20px 30px;
     max-width: 2000px;
@@ -105,6 +106,7 @@ aside > div {
 }
 body > section {
     max-width: 2000px;
+    margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
     color: #333;

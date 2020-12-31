@@ -51,25 +51,24 @@ nav ul {
     list-style: none;
 }
 
-#pageContent {
-    max-width: 2000px;
-    border: none;
-}
-
 main {
 	float: left;
-				width: 60%;
-			min-width: 60%;
-			max-width: 60%;
+	width: 60%;
+	min-width: 60%;
+	max-width: 60%;
 }
 aside {
 	float: right;
 	width: 30%;
+	min-width: 30%;
+	max-width: 30%;
+
 }
+
 article {
-    border-bottom: 2px dotted #999;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
+   	border-bottom: 2px dotted #999;
+   	padding-bottom: 20px;
+    	margin-bottom: 20px;
 }
 article h2 {
     font-weight: normal;

@@ -24,8 +24,7 @@ header {
         /*max-width: 2000px;*/
 }
 
-h1 {
-}
+
 
 
 main {
@@ -77,42 +76,4 @@ aside > div {
 	background: #FFFFFF;
 	min-height: 100px;
 }
-#logo {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 30px;
-    margin-right: 75px;
-    color: #FFF;
-	    background-color: transparent;
 
-}
-#logo img {
-    width: 50px;
-    vertical-align: middle;
-    margin-right: 10px;
-    background-color: transparent;
-}
-body > section {
-    max-width: 2000px;
-    margin: auto;
-    padding: 30px 0px;
-    border-bottom: 1px solid #999;
-    color: #333;
-}
-
-@media screen and (max-width: 2000px) {
-	body > section {
-		padding: 30px 20px;
-	}
-}
-@media screen and (max-width: 200px) {
-	main {
-		float: none;
-		width: 100%;
-	}
-	aside {
-		float: none;
-		width: 100%;
-	}
-
-}

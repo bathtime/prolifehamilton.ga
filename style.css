@@ -50,12 +50,13 @@ nav ul li {
 nav ul {
     list-style: none;
 }
-#pageContent {
+
+/*#pageContent {
     padding: 30px 30px;
     max-width: 2000px;
     margin: 30;
     border: none;
-}
+}*/
 main {
 	float: left;
 	width: 60%;

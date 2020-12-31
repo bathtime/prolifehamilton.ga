@@ -14,16 +14,6 @@ table{border-collapse:collapse;border-spacing:0}
 hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
 input,select{vertical-align:middle}
 
-body,html {
-	background-color: #FFF;
-}
-header {
-	/*margin: auto;*/
-        background: #FFFFFF;
-	/*padding: 25px 20px 0px 20px;*/
-        /*max-width: 2000px;*/
-}
-
 
 
 
@@ -47,16 +37,12 @@ article {
    	padding-bottom: 20px;
     	margin-bottom: 20px;
 }
+
 article h2 {
     font-weight: normal;
     margin-bottom: 12px;
 }
-article p {
-	
-}
-main section {
-	
-}
+
 footer {
 	background: #23629e;
 	color: #ffffff;

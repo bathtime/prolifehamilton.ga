@@ -17,45 +17,4 @@ input,select{vertical-align:middle}
 
 
 
-main {
-	float: left;
-	width: 60%;
-	min-width: 60%;
-	max-width: 60%;
-	margin: 2.5%;
-}
-aside {
-	float: right;
-	width: 30%;
-	min-width: 30%;
-	max-width: 30%;
-
-}
-
-
-
-article h2 {
-    font-weight: normal;
-    margin-bottom: 12px;
-}
-
-footer {
-	background: #23629e;
-	color: #ffffff;
-	max-width: 2000px;
-	margin: auto;
-	clear: both;
-	text-align: right;
-}
-footer p {
-	padding: 20px;
-}
-address {
-    padding: 10px 20px 30px 10px;
-}
-aside > div {
-	margin: 10px auto;
-	background: #FFFFFF;
-	min-height: 100px;
-}
 

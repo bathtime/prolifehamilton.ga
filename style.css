@@ -60,7 +60,9 @@ nav ul {
 
 main {
 	float: left;
-	
+				width: 60%;
+			min-width: 60%;
+			max-width: 60%;
 }
 aside {
 	float: right;

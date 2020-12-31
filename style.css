@@ -51,12 +51,10 @@ nav ul {
     list-style: none;
 }
 
-/*#pageContent {
-    padding: 30px 30px;
+#pageContent {
     max-width: 2000px;
-    margin: 30;
     border: none;
-}*/
+}
 
 main {
 	float: left;

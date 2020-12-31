@@ -18,10 +18,14 @@ body,html {
 	background-color: #FFF;
 }
 header {
-	margin: auto;
+	/*margin: auto;*/
         background: #FFFFFF;
-	padding: 25px 20px 0px 20px;
+	/*padding: 25px 20px 0px 20px;*/
         max-width: 2000px;
+}
+
+h1 {
+	color: #b04bc0;
 }
 
 nav {
